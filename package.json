@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "typescript": "^4.8.4",
-    "vite": "^3.1.7"
+    "vite": "^3.2.0-beta.1"
   }
 }
